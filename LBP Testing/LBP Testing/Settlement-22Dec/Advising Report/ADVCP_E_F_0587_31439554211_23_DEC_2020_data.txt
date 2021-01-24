@@ -1,0 +1,1 @@
+Standard Net Stlmt Advice - CSV,ADVCP_E_F_0587,Settlement \ External Partner Facing \ Advising LE,12/23/2020,,FR087,LA BANQUE POSTALE CHIP,FR087_NET,,,FRANCE,33340001671837,,3334,,,,,,,,,,Event Driven

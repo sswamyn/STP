@@ -1,0 +1,1 @@
+Standard Net Stlmt Advice - CSV,ADVCP_E_F_0587,Settlement \ External Partner Facing \ Advising LE,12/24/2020,,FR088,LA BANQUE POSTALE HOSTED POS,FR088_NET,,,FRANCE,33340001671842,,3334,,,,,,,,,,Event Driven

@@ -1,0 +1,7 @@
+Partner ID,Advice Number,Advice Date,Advice Date from,Advice Date To
+FR088,33340001671842,24/12/2020,23/12/2020,23/12/2020
+Settlement Date,Currency,Principal,Charges,Foreign Exchange,Financial Adjustment,Tax,Total
+23/12/2020,EUR,30.00,8.65,0.00,0.00,0.00,38.65
+23/12/2020,EUR,30.00,8.65,0.00,0.00,0.00,38.65
+Partner Total,EUR,30.00,8.65,0.00,0.00,0.00,38.65
+Partner Total,EUR,30.00,8.65,0.00,0.00,0.00,38.65
